@@ -4,6 +4,7 @@ Library                String
 Library                DateTime
 Library                Collections
 Library                FakerLibrary
+Library                ExcelLibrary
 
 *** Variables ***
 # IMPORTANT: Please read the readme.txt to understand needed variables and how to handle them!!
